@@ -1,47 +1,71 @@
-# Personal Website
+Stardance Program. Personal Website Project
 
-Welcome to the source code for my personal website! This repository houses my digital portfolio, showcasing my projects, background, technical writing, and contact information.
+About the Project
 
----
+This project was created as part of the Stardance Program. The goal was to design and build a website that introduces me, shows selected projects,s and lets visitors contact me. The website has a custom look with a background, colourful highlights, responsive design and interactive parts.
 
-## 🛠 Tech Stack
+Website Sections
 
-* **Styling:** Tailwind CSS / Styled Components
-* **Deployment:**  GitHub Pages
-* **Language:** HTML/CSS
+- Home: An introduction and overview.
 
-  ---
+- About: Background, interests and skills.
 
-## 🚀 Quick Start
+- Projects: A showcase area for selected work and experiments.
 
-Get a local development environment up and running in a few steps.
+- Playground: An interactive section where visitors can change the colour theme.
 
-### Prerequisites
+- Contact: Contact information and links.
 
-* **Node.js:** v18.0.0 or higher
-* **Package Manager:** `npm`, `pnpm`, or `yarn`
+Technologies Used
 
-### Local Setup
+- HTML5. For page structure and content
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
-   ```
+- CSS3. For layout design and visual styling
 
-2. **Install dependencies:**
-   ```bash
-   npm install
-   ```
+- JavaScript. For mobile navigation and the interactive colour playground
 
-3. **Configure Environment Variables (Optional):**
-   Copy the example environment file and add your credentials:
-   ```bash
-   cp .env.example .env.local
-   ```
+JavaScript is used for small enhancements. The website is primarily built with HTML and CSS.
 
-4. **Start the development server:**
-   ```bash
-   npm run dev
-   ```
-   Open `http://localhost:3000` in your browser to see the result.
+Running the Website Locally
+
+1. Clone this repository.
+
+2. Keep index.html, style.cs,s and script.js in the folder.
+
+3. Open index.html in a web browser.
+
+No build tools or package installation are required.
+
+Publishing the Website
+
+The website can be published using GitHub Pages:
+
+1. Push the website files to a GitHub repository.
+
+2. Open the repository's Settings.
+
+3. Select Pages.
+
+4. Choose Deploy from branch,h select the branch and the / (root) folder, er then save.
+
+5. Once deployment finishes, use the URL shown in the Pages settings to visit the website.
+
+What I Learned
+
+Through this project I practised:
+
+- Structuring a website with HTML.
+
+- Using CSS to create a visual identity.
+
+- Making layouts responsive for different screen sizes.
+
+- Adding interactivity with JavaScript.
+Organising the project. Preparing a site for deployment.
+
+AI Use Disclosure
+
+I used ChatGPT and Grammarly as an AI assistant to help draft and refine parts of the website code and this README. I reviewed the generated material. Can personalize the content, styling and project details as part of my own learning. The final submission should reflect the changes and understanding I contribute to the project.
+
+Project: Personal Website
+Program: Stardance Program
